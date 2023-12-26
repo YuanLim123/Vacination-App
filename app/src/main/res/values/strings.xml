@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Vaccination</string>
+    <string name="txtmain">Welcome Back</string>
+    <string name="main_vacin">Vaccination</string>
+    <string name="healthcare_info">Things to know</string>
+    <string name="get_your_vaccine_now">Get your vaccine now!</string>
+    <string name="information_about_vaccines">Information about Vaccines</string>
+    <string name="q1">1. Can anyone aged 5 and older get the COVID-19 vaccine?</string>
+    <string name="q2">2. Could I still infected by COVID-19 after receiving the COVID-19 vaccine?</string>
+    <string name="q3">3. Will COVID-19 vaccination cause me to get infected and sick? </string>
+    <string name="q4">4. If you’re vaccinated, you are less likely to be hospitalized or die if you do get COVID-19.</string>
+    <string name="submittext">Submit</string>
+    <string name="pfizer">Pfizer</string>
+    <string name="sinovac">Sinovac</string>
+    <string name="AZ">Astra Zeneca</string>
+    <string name="my_vaccine">My vaccine</string>
+    <string name="tittle_book">Book for your vaccine now</string>
+    <string name="personal_info">Personal information</string>
+    <string name="address">Address</string>
+    <string name="text_vaccine">Choose your favourite vaccine</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="address1">Address</string>
+    <string name="notes1">Notes</string>
+    <string name="choosen_vaccine">Choosen vaccine</string>
+    <string name="ok">OK</string>
+
+
+    <string name="vaccine_info_pfizer">
+        \nThe Pfizer vaccine was the first-ever approved corona vaccine. It was also the first mRNA vaccine in history to be authorized for public use. It was produced by a collaboration between the American pharmaceutical giant, Pfizer, and an innovative German biotechnology firm, BioNTech.\n\n
+        <b>How it works:</b>
+        \nThe Pfizer-BioNTech vaccine uses messenger RNA (mRNA) technology. mRNA vaccines teach our cells to make a protein that triggers an immune response inside our bodies. This is different from traditional vaccines which put a weakened or inactivated germ into our bodies.\n\n
+        <b>Possible side effects:</b>
+        \nPain, redness, or swelling at the site where the shot was administered, and/or tiredness, headache, muscle pain, chills, fever, or nausea throughout the rest of the body.\n\n
+        <b>Age Groups:</b>
+        \nThe Pfizer/BioNTech vaccine has been approved for both children (ages 5-17) and adults:
+        \n•The FDA  and EMA have approved the vaccine in children aged 5 and over.
+        \n•The WHO has recently approved a booster dose of Pfizer/BioNTech in children aged 12 and up. So far, this is the only WHO-approved booster vaccine in children.\n\n
+        <b>Efficacy:</b>About 95%. Apparently 100% at preventing hospitalization and death.\n
+    </string>
+
+
+    <string name="vaccine_info_sinovac">
+        \nThe Sinovac is an inactivated virus COVID-19 vaccine developed by the Chinese company Sinovac Biotech. It also known as CoronaVac.\n\n
+        <b>How it works:</b>
+        \nSinovac vaccine uses inactivated vaccine technology, which utilises virus particles that have been killed to stimulate our bodies to produce an immune response. This vaccine is similar to the flu vaccine.\n\n
+        <b>Possible side effects:</b>
+        \nPain at the injection site, Headache, Tiredness, Muscle aches\n\n
+        <b>Age Groups:</b>
+        \nThe WHO currently does not recommend the vaccine in children, however, certain countries have authorized the vaccine in kids aged 3 years and up. This comes after a large trial showed that the Sinovac vaccine was safe and effective in children in this age group.\n\n
+        <b>Efficacy:</b>50.38% to 91.25%, depending on the clinical trial.\n
+    </string>
+
+    <string name="vaccine_info_az">
+        \nThe AstraZeneca was the first traditional vaccine against corona to be approved worldwide. It was well accepted by health authorities, but seems to have slightly less effectiveness compared to the mRNA vaccines.\n\n
+        <b>How it works:</b>
+        \nThis is a carrier vaccine. Scientists engineer a harmless adenovirus as a shell to carry genetic code on the spike proteins to the cells. Once the code is inside the cells, the cells produce a spike protein to train the body’s immune system, which creates antibodies and memory cells to protect against an actual SARS-CoV-2 infection.\n\n
+        <b>Possible side effects:</b>
+        \nTenderness, pain, warmth, redness, itching, swelling or bruising at the injection site.\n\n
+	<b>Age Groups:</b>
+	\nAstraZeneca is not approved for use in children. The EMA and WHO recommend it only in adults aged 18 and older.\n\n
+	<b>Efficacy:</b>Currently about 70% overall.\n
+    </string>
+
+
+    <string name="health_facilities">Health Facilities</string>
+    <string name="covid_websites_news">COVID-19 News</string>
+
+    <string name="personal_health">
+        <b>To prevent the spread of COVID-19: </b> \n\n
+        1. Maintain a safe distance from others (at least 1 metre), even if they don’t appear to be sick.\n\n
+        2. Wear a mask in public, especially indoors or when physical distancing is not possible. \n\n
+        3. Choose open, well-ventilated spaces over closed ones. Open a window if indoors.
+        \n\n 4. Clean your hands often. Use soap and water, or an alcohol-based hand rub.
+        \n\n 5. Get vaccinated when it’s your turn. Follow local guidance about vaccination. \n\n
+        6. Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze. \n\n
+        7. Stay home if you feel unwell.
+    </string>
+    <string name="available_kkm_hospital">Available:</string>
+    <string name="hospital_sultan_aminah">Hospital Sultanah Aminah</string>
+    <string name="hospital_melaka">Hospital Melaka</string>
+    <string name="hospital_ampang">Hospital Ampang</string>
+    <string name="hospital_bahagia_ulu_kinta">Hospital Bahagia Ulu Kinta</string>
+    <string name="hospital_pulau_pinang">Hospital Pulau Pinang</string>
+    <string name="hospital_baling">Hospital Baling</string>
+    <string name="hospital_besut">Hospital Besut</string>
+    <string name="hospital_beaufort">Hospital Beaufort</string>
+    <string name="https_covid_19_moh_gov_my">https://covid-19.moh.gov.my/</string>
+    <string name="click_to_know_the_latest_covid_19_news_in_malaysia">click to know the latest covid-19 news in Malaysia</string>
+    <string name="txt_success_msg">You have successfully registered for vaccination!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <array name="vaccine">
+        <item>Sinovac</item>
+        <item>AstraZeneca</item>
+        <item>Pfizer</item>
+    </array>
+
+    <string-array name="hospital">
+        <item>Hospital Sultanah Aminah</item>
+    </string-array>
+
+
+    <string-array name="description">
+        <item>This is Hospital Sultanah Aminah</item>
+    </string-array>
+
+</resources>
